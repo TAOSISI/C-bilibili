@@ -1,0 +1,14 @@
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe.config
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\bin\Debug\WpfHelloWorld.exe
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\bin\Debug\WpfHelloWorld.pdb
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\WpfHelloWorld.csprojResolveAssemblyReference.cache
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\MainWindow.g.cs
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\App.g.cs
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\WpfHelloWorld_MarkupCompile.cache
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\WpfHelloWorld_MarkupCompile.lref
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\MainWindow.baml
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\WpfHelloWorld.g.resources
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\WpfHelloWorld.Properties.Resources.resources
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\WpfHelloWorld.csproj.GenerateResource.Cache
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\WpfHelloWorld.exe
+D:\C#\Bilibili\HelloWorld\MySolution\WpfHelloWorld\obj\Debug\WpfHelloWorld.pdb

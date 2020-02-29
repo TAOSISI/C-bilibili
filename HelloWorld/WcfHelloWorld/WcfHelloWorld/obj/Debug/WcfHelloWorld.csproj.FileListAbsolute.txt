@@ -1,0 +1,6 @@
+D:\C#\Bilibili\HelloWorld\WcfHelloWorld\WcfHelloWorld\bin\Debug\WcfHelloWorld.dll.config
+D:\C#\Bilibili\HelloWorld\WcfHelloWorld\WcfHelloWorld\bin\Debug\WcfHelloWorld.dll
+D:\C#\Bilibili\HelloWorld\WcfHelloWorld\WcfHelloWorld\bin\Debug\WcfHelloWorld.pdb
+D:\C#\Bilibili\HelloWorld\WcfHelloWorld\WcfHelloWorld\obj\Debug\WcfHelloWorld.csprojResolveAssemblyReference.cache
+D:\C#\Bilibili\HelloWorld\WcfHelloWorld\WcfHelloWorld\obj\Debug\WcfHelloWorld.dll
+D:\C#\Bilibili\HelloWorld\WcfHelloWorld\WcfHelloWorld\obj\Debug\WcfHelloWorld.pdb
