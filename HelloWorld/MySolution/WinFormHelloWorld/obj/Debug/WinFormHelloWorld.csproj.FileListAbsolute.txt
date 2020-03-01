@@ -1,9 +1,0 @@
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\bin\Debug\WinFormHelloWorld.exe.config
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\bin\Debug\WinFormHelloWorld.exe
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\bin\Debug\WinFormHelloWorld.pdb
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.csprojResolveAssemblyReference.cache
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.Form1.resources
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.Properties.Resources.resources
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.csproj.GenerateResource.Cache
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.exe
-D:\C#\Bilibili\HelloWorld\MySolution\WinFormHelloWorld\obj\Debug\WinFormHelloWorld.pdb

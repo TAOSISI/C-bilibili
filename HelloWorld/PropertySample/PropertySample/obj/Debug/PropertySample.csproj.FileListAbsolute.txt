@@ -1,1 +1,0 @@
-D:\C#\Bilibili\HelloWorld\PropertySample\PropertySample\bin\Debug\PropertySample.exe.config

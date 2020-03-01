@@ -1,6 +1,0 @@
-D:\C#\Bilibili\HelloWorld\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe.config
-D:\C#\Bilibili\HelloWorld\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe
-D:\C#\Bilibili\HelloWorld\MySolution\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.pdb
-D:\C#\Bilibili\HelloWorld\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.csprojResolveAssemblyReference.cache
-D:\C#\Bilibili\HelloWorld\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.exe
-D:\C#\Bilibili\HelloWorld\MySolution\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.pdb
