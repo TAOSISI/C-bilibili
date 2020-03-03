@@ -1,0 +1,1 @@
+由于没有Xunit的模板，查明原因，没有安装.NET Core，安装后模板中的.NET Core依然没有Xunit，所以使用单元测试，并安装Xunit所带的nugut包，再using Xunit，即可得到一样的效果。
