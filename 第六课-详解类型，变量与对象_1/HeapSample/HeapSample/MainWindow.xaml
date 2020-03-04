@@ -1,0 +1,14 @@
+﻿<Window x:Class="HeapSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HeapSample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="button2" Content="Consume Heap Memory" HorizontalAlignment="Left" Height="45" Margin="36,31,0,0" VerticalAlignment="Top" Width="450" Click="button2_Click"/>
+        <Button x:Name="button1" Content="Release Heap Memory" HorizontalAlignment="Left" Height="66" Margin="36,106,0,0" VerticalAlignment="Top" Width="450" Click="button1_Click"/>
+
+    </Grid>
+</Window>
