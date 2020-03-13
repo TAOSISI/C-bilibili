@@ -10,14 +10,21 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+
+
             Student a = new Student();
+            a.qd = new Queue<string>();
+            Queue<string> numbers = new Queue<string>();
+            numbers.Enqueue("123");
+            a.qd.Enqueue("123");
+
             Console.WriteLine(a);
-            Console.WriteLine(qd);
+            Console.WriteLine(a.qd);
             Console.ReadKey();
         }
     }
     class Student
     {
-        public static Queue<decimal> qd;
+        public Queue<string> qd;
     }
 }

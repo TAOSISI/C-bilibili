@@ -1,0 +1,7 @@
+DataMemberExample 静态字段
+DataMemberExample2  只读字段
+DataMemberExample3 静态只读字段
+PropertyExample 将字段改为属性，get set
+PropertyExample2 属性大多数情况下是字段的包装器，永远使用属性而不是字段暴露数据，即字段永远都是private和protected
+IndexerExample 索引器
+ConstantExample 声明常量
