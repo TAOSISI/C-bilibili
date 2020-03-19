@@ -1,0 +1,6 @@
+DelegateExample   action和function的委托
+DelegateExample2 自定义委托，如同类
+DelegateExample3 委托的一般使用，模板方法，好处在于product类，包装box类无需再动，只需要不停地拓展产品即可
+回调方法，
+MulticastDelegateExample 单播委托和多播委托，同步调用和异步调用
+DelegateExample3 用接口代替委托
